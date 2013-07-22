@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">SpeedTrap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start_speed_trap">SpeedTrap</string>
+    <string name="uparrow">&#8593;</string>
+    <string name="downarrow">&#8595;</string>
+    <string name="arrow">&#8597;</string>
+    <string name="Level">Level</string>
+    <string name="firstname">Prénom</string>
+    <string name="lastname">Nom de famille</string>
+    <string name="email">Email</string>
+    <string name="username">Nom d´utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="onlycontainalphanumeric"> must contain only alphanumeric characters </string>
+    <string name="please_wait">Please wait..</string>
+    <string name="allfieldsrequired">All Fields Required.</string>
+    <string name="usernamealready">Username Already Exists</string>
+    <string name="validemail">Enter valid Email.</string>
+    <string name="emailusernamenotvalid">email / username not valid.</string>
+    <string name="nonet">No internet connection!</string>
+    <string name="existingAccount">S´identifier via un compte existant</string>
+    <string name="iamanewuser">Je suis un nouvel utilisateur</string>
+    <string name="emailadd">Adresse e-mail</string>
+    <string name="iaccepttermsofuse">J´accepte les conditions générales d´utilisation</string>
+    <string name="touchthearrow">Touchez la flèche pour signaler un radar</string>
+    <string name="mobilespeedtrap">Radar vitesse mobile</string>
+    <string name="fixedspeedtrap">Radar vitesse fixe</string>
+    <string name="trafficlighttrap">Radar feu rouge</string>
+    <string name="direction">Direction</string>
+    <string name="seethespeedtrap">Avez-vous vu le radar ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="willwarn">Cette App vous avertit quand vous arrivez à proximité de :</string>
+    <string name="appOne">Un radar vitesse fixe</string>
+    <string name="appTwo">Un radar qui a été signalé ou confirmé dans les deux dernières heures.</string>
+    <string name="appThree">Un emplacement où des radars ont étés régulièrement signalés.</string>
+    <string name="plhelpothers">Merci d´aider les autres utilisateurs en signalant les radars quand vous les voyez.</string>
+    <string name="threeeasyseps">Il y a seulement trois étapes très simples.</string>
+    <string name="stepOne">Touchez la flèche quand vous voyez un radar.</string>
+    <string name="stepTwo">Touchez le bouton qui indique le type de radar que vous avez vu. Soit un radar vitesse mobile, un radar vitesse fixe, ou un radar feu rouge.</string>
+    <string name="stepThree">Touchez le bouton qui précise la direction dans laquelle la caméra enregistrait la vitesse.</string>
+	<string name="drivecarefully">Merci de conduire prudemment !</string>
+    <string name="speeding">Conduire à une vitesse excessive est dangereux !</string>
+    <string name="settings">Paramètres</string>
+    <string name="warningpossible">Alerte de présence possible de radars.</string>
+    <string name="appgreatadv">Un des grands avantages de Speed Trap APP est de pouvoir prédire les endroits où il y a un risque important de recontrer un radar.</string>
+    <string name="turnon">En activant ce paramètre, vous obtiendrez plus de fausses-alertes. Mais nous pensons qu´il vaut mieux prévenir que guérir.</string>    
+    <string name="recommendFriends">Aider-nous à améliorer cette App - Recommandez-la à vos amis.</string>
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>dansk</item>
+        <item>español</item>
+        <item>français</item>
+        <item>Deutsch</item>
+    </string-array>
+
+</resources>

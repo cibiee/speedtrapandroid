@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">SpeedTrap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start_speed_trap">SpeedTrap</string>
+    <string name="uparrow">&#8593;</string>
+    <string name="downarrow">&#8595;</string> 
+    <string name="arrow">&#8597;</string>
+    <string name="Level">Level</string>
+    <string name="firstname">Nombre</string>
+    <string name="lastname">Apellido</string>
+    <string name="email">Email</string>
+    <string name="username">Nombre de usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="onlycontainalphanumeric"> must contain only alphanumeric characters </string>
+    <string name="please_wait">Please wait..</string>
+    <string name="allfieldsrequired">All Fields Required.</string>
+    <string name="usernamealready">Username Already Exists</string>
+    <string name="validemail">Enter valid Email.</string>
+    <string name="emailusernamenotvalid">email / username not valid.</string>
+    <string name="nonet">No internet connection!</string> 
+    <string name="existingAccount">Iniciar sesión con su cuenta actual</string>
+    <string name="iamanewuser">Soy un nuevo usuario</string>
+    <string name="emailadd">Dirección de correo electrónico</string>
+    <string name="iaccepttermsofuse">Acepto las condiciones de uso</string>
+    <string name="touchthearrow">Toque la flecha para reportar una trampa de velocidad</string>
+    <string name="mobilespeedtrap">Trampa de velocidad móvil</string>
+    <string name="fixedspeedtrap">Trampa de velocidad fija</string>
+    <string name="trafficlighttrap">Trampa de semaforo</string>
+    <string name="direction">Dirección</string>
+    <string name="seethespeedtrap">¿Has visto la trampa de velocidad?</string>
+    <string name="yes">Sí</string>
+    <string name="no">No</string>
+    <string name="willwarn">Esta aplicación le advertirá cuando se acerque a:</string>
+    <string name="appOne">Una trampa de velocidad fija</string>
+    <string name="appTwo">Una trampa de velocidad que ha sido informado o confirmado en las últimas 2 horas</string>
+    <string name="appThree">Un lugar donde las trampas de velocidad se ha informado con regularidad.</string>
+    <string name="plhelpothers">Por favor, ayuda a otros usuarios informando de las trampas de velocidad cuando las vea.</string>
+    <string name="threeeasyseps">Sólo hay tres pasos sencillos.</string>
+    <string name="stepOne">Pulse la flecha cuando vea una trampa de velocidad.</string>
+    <string name="stepTwo">Pulse el botón que indica qué tipo usted ha visto. Ya sea un radar móvil, una trampa de velocidad fija o una trampa de semaforo.</string>
+    <string name="stepThree">Toca el botón que indica la dirección en la que la cámara estaba registrando la velocidad.</string>
+	<string name="drivecarefully">Por favor conduce con cuidado!</string>
+    <string name="speeding">El exceso de velocidad es peligroso!</string>
+    <string name="settings">Configuración</string>
+    <string name="warningpossible">Advertencia para las posibles trampas de velocidad.</string>
+    <string name="appgreatadv">Una de las grandes ventajas de APP trampa de velocidad es que se puede predecir donde hay un alto riesgo de encontrar una trampa de velocidad.</string>
+    <string name="turnon">Encendiendido también tendrá advertencias de falsas alarmas, pero en nuestra opinión, es mejor prevenir.</string>        
+    <string name="recommendFriends">Ayudenos a mejorar - recomendarnos a tus amigos.</string>
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>dansk</item>
+        <item>español</item>
+        <item>français</item>
+        <item>Deutsch</item>
+    </string-array>
+
+</resources>

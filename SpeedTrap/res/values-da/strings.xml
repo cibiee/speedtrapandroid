@@ -1,0 +1,60 @@
+<resources>
+
+    <string name="app_name">SpeedTrap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start_speed_trap">SpeedTrap</string>
+    <string name="uparrow">&#8593;</string>
+    <string name="downarrow">&#8595;</string>
+    <string name="arrow">&#8597;</string>
+    <string name="Level">Level</string>
+    <string name="firstname">Fornavn</string>
+    <string name="lastname">Efternavn</string>
+    <string name="email">Email</string>
+    <string name="username">Brugernavn</string>
+    <string name="password">Password</string>
+    <string name="onlycontainalphanumeric"> must contain only alphanumeric characters </string>
+    <string name="please_wait">Vent venligst</string>
+    <string name="allfieldsrequired">Alle felter skal udfyldes</string>
+    <string name="usernamealready">Email adresse eksisterer allerede</string>
+    <string name="validemail">Emailadresse er forkert</string>
+    <string name="emailusernamenotvalid">email / username not valid.</string>
+    <string name="nonet">Ingen forbindelse til internettet - prøv igen senere</string>
+    <string name="existingAccount">Login med eksisterende konto</string>
+    <string name="iamanewuser">Jeg er en ny bruger</string>
+    <string name="emailadd">Emailadresse</string>
+    <string name="iaccepttermsofuse">Jeg acceptere betingelserne for brug af Speed Trap App</string>
+    <string name="touchthearrow">Rør ved pilen for at melde en fartfælde</string>
+    <string name="mobilespeedtrap">Mobil fartfælde</string>
+    <string name="fixedspeedtrap">Fast fart fælde</string>
+    <string name="trafficlighttrap">Lyskryds fælde</string>
+    <string name="direction">Retning</string>
+    <string name="seethespeedtrap">Så du fælden?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nej</string>
+    <string name="willwarn">Denne app vil advare dig når du nærmer dig:</string>
+    <string name="appOne">En fastinstalleret fartfælde</string>
+    <string name="appTwo">En mobil fartfælde der er blevet rapporteret eller bekræftet inden for de sidste 2 timer</string>
+    <string name="appThree">Et sted hvor mobile fartfælder er blevet rapporteret jævnligt</string>
+    <string name="plhelpothers">Hjælp andre brugere ved at rapportere fartfælder når du ser dem</string>
+    <string name="threeeasyseps">Det er kun tre hurtige skridt</string>
+    <string name="stepOne">Rør ved pilen når du ser en fartfælde</string>
+    <string name="stepTwo">Fortæl om du har set en fast, mobil eller lyskryds fælde</string>
+    <string name="stepThree">Fortæl i hvilken retningen fælden registerer</string>
+	<string name="drivecarefully">Kør forsigtigt!</string>
+    <string name="speeding">Det er farligt at køre for stærkt!</string>
+    <string name="settings">Indstillinger</string>
+    <string name="warningpossible">Advarsel for mulige fartfælder</string>
+    <string name="appgreatadv">En af Speed Trap APPs store fordele er at den kan forudsige hvor der er stor sandsynlighed for at der er en fartfælde</string>
+    <string name="turnon">Dette vil give flere falske alarmer, men vi er af den mening at det er bedre at bremse en gang for meget end en gang for lidt.</string>    
+    <string name="recommendFriends">Hjælp os til at blive bedre. Anbefal os til dine venner.</string>
+    <string name="facebookPost">undgår fartbøder med en gratis app fra Speed Trap App.</string>
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>dansk</item>
+        <item>español</item>
+        <item>français</item>
+        <item>Deutsch</item>
+    </string-array>
+
+</resources>

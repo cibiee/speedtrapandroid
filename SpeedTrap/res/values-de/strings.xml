@@ -1,0 +1,61 @@
+<resources>
+
+    <string name="app_name">SpeedTrap</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start_speed_trap">SpeedTrap</string>
+	<string name="uparrow">&#8593;</string>
+	<string name="downarrow">&#8595;</string>
+	<string name="arrow">&#8597;</string>
+	<string name="Level">Level</string>
+    <string name="firstname">Vorname</string>
+    <string name="lastname">Nachname</string>
+    <string name="email">Email</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Kennwort</string>
+    <string name="onlycontainalphanumeric"> must contain only alphanumeric characters </string>
+    <string name="please_wait">Bitte warten</string>
+    <string name="allfieldsrequired">Alle Felder müssen ausgefüllt werden</string>
+    <string name="usernamealready">Emailadresse existiert schon</string>
+    <string name="validemail">Emailadresse ist falsch</string>
+    <string name="emailusernamenotvalid">email / username not valid.</string>
+    <string name="nonet">Keine Verbindung zum Internet - Versuchen Sie es bitte später</string>
+    <string name="existingAccount">Login mit bestehende Konto</string>
+    <string name="iamanewuser">Ich bin neue Nutzer</string>
+    <string name="emailadd">Emailadresse</string>
+     <string name="iaccepttermsofuse">I nehme die allgemeine Geschäftsbedingungen an</string>
+     <string name="touchthearrow">Berühre den Pfeil um einen Blitzer zu melden</string>   
+     <string name="mobilespeedtrap">Mobile Blitzer</string>
+     <string name="fixedspeedtrap">Feste Blitzer</string>
+     <string name="trafficlighttrap">Ampel Blitzer</string>  
+     <string name="direction">Richtung</string>  
+     <string name="seethespeedtrap">Hast du den Blitzer gesehen</string>  
+     <string name="yes">Ja</string>  
+     <string name="no">Nein</string>  
+     <string name="willwarn">Diesen App wird dich warnen wenn du</string>
+    <string name="appOne">Einen festen Blitzer näherst</string>
+    <string name="appTwo">Eine Stelle näherst wo ein mobile Blitzer innerhalb die letzte 2 Stunden gemeldet ist</string>
+    <string name="appThree">Wo Blitzer öfters gemeldet wurde</string>
+    <string name="plhelpothers">Bitte andere Nutzer helfen indem du Blitzer meldest wenn du die siehst.</string>
+    <string name="threeeasysteps">Nur drei einfache Schritte:</string>
+    <string name="stepOne">Berühre den Pfeil wenn du einen Blitzer siehst</string>
+    <string name="stepTwo">Teile mit was für einen Blitzer du gesehen hast. Entweder mobil, fest oder ampel Blitzer.</string>
+    <string name="stepThree">Teile mit in welche Richtung der Blitzer registriert</string>
+	<string name="drivecarefully">Bitte fahren Sie vorsichtig!</string>
+    <string name="speeding">Hohe Geschwindigkeiten sind gefährlich!</string>
+    <string name="settings">Einstellungen</string>
+    <string name="warningpossible">Warnung bei mögliche Blitzer</string>
+    <string name="appgreatadv">Eine von Speed Trap APP ist das er kann voraussagen wo Blitzer mit hoher Wahrscheinlichkeit stehen.</string>
+    <string name="turnon">Wenn du diese Funktion nutzt wirst du erheblich mehr falsche Warnungen erhalten. Wir sind aber die Meinung das es ist besser ein Mal zu viel zu bremsen als ein Mal zu wenig.</string>    
+   <string name="privacypolicy">Privatleben</string>
+    <string name="termsofuse">Allgemeine Geschäftsbedingungen</string>
+    <string name="recommendFriends">Hilfe uns besser zu werden - empfehle uns an deine Freunde.</string>
+    <string name="facebookPost">wird nie wieder geblitzt dank die kostenfreie Apps von Speed Trap App.</string>
+    <string-array name="language_arrays">
+        <item>English</item>
+        <item>dansk</item>
+        <item>español</item>
+        <item>français</item>
+        <item>Deutsch</item>
+    </string-array>
+</resources>
